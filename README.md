@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vizz 👋</h1>
+<h1 align="center">Hi, I'm Viso V 👋</h1>
 <h3 align="center">AI/ML & Full-Stack Developer | B.Tech AI & DS @ PSG iTech</h3>
 
 <p align="center">
