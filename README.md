@@ -3,19 +3,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:viso2711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 B.Tech AI & Data Science, PSG Institute of Technology and Applied Research (CGPA: 8.09/10)
-- 🧠 Building full-stack + ML systems — from real-time monitoring platforms to distributed job queues
+- 🎓 B.Tech AI & Data Science, PSG Institute of Technology and Applied Research
 - 🏆 Secretary, Quiz Club @ PSG iTech
-- 🌱 Currently sharpening CS fundamentals (CN, OS, DBMS, OOPs) for SDE placements
-- 🔓 Open source contributor — OWASP MASTG
-- 📫 Reach me at: youremail@example.com
+- 🌱 Currently sharpening CS fundamentals and DSA for placements
+- 🔓 Open source contributor 
+
 
 ---
 
@@ -56,29 +55,25 @@
 
 ### 🔥 Featured Projects
 
-#### 🩺 [Sentinel](https://github.com/yourusername/sentinel)
+#### 🩺 Sentinel
 Real-time error monitoring platform with AI-powered fix suggestions.
 `Python` `React` `FastAPI` `MongoDB` `LLM Integration`
 
-#### 🧠 [Arbor](https://github.com/yourusername/arbor)
+#### 🧠 Arbor
 AI Knowledge Graph note-taking app using Qwen3 80B + vector search (1536-dim embeddings, cosine similarity).
 `OpenRouter` `MongoDB Atlas Vector Search` `React`
 
-#### 🔬 [WaferSight](https://github.com/yourusername/wafersight)
+#### 🔬 WaferSight
 AI-powered wafer defect detection using MobileNetV3-Small on WM-811K dataset, with GradCAM visualization. Built at PSG iTech × SanDisk Hackathon 2026.
 `FastAPI` `MongoDB Atlas` `React` `Computer Vision`
 
-#### 📊 [Intelligent Patient Risk Monitoring System](https://github.com/yourusername/patient-risk-mlops)
+#### 📊 Intelligent Patient Risk Monitoring System
 MLOps pipeline with RandomForest, monitored via Prometheus + Grafana, CI/CD via Jenkins.
 `scikit-learn` `FastAPI` `MongoDB` `Jenkins` `Prometheus` `Grafana`
 
-#### 🎓 [College Event Management System](https://github.com/yourusername/event-management)
+#### 🎓 College Event Management System
 Full-stack event management platform with JWT-secured REST APIs.
 `FastAPI` `React` `Vite` `TailwindCSS` `MongoDB Atlas`
-
-#### 🔌 [Worker Safety Monitor (IoT Capstone)](https://github.com/yourusername/worker-safety-monitor)
-Real-time worker safety monitoring using Arduino sensors with live dashboards.
-`Arduino` `Node.js` `Next.js` `Supabase` `Recharts`
 
 ---
 
@@ -108,4 +103,4 @@ Real-time worker safety monitoring using Arduino sensors with live dashboards.
 
 ---
 
-<p align="center"><i>⚡ Currently prepping for SDE roles — always open to interesting collabs!</i></p>
+<p align="center"><i>⚡ Currently prepping for placements — always open to interesting collabs!</i></p>
