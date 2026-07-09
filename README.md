@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML & Full-Stack Developer | B.Tech AI & DS @ PSG iTech</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/" target="linkedin.com/in/viso-v-03a4a224b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:viso2711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -37,8 +37,6 @@
 **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **AI/ML**
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square)
@@ -46,7 +44,6 @@
 ![OpenRouter](https://img.shields.io/badge/OpenRouter%20LLM-black?style=flat-square)
 
 **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=flat-square)
@@ -67,10 +64,6 @@ AI Knowledge Graph note-taking app using Qwen3 80B + vector search (1536-dim emb
 AI-powered wafer defect detection using MobileNetV3-Small on WM-811K dataset, with GradCAM visualization. Built at PSG iTech × SanDisk Hackathon 2026.
 `FastAPI` `MongoDB Atlas` `React` `Computer Vision`
 
-#### 📊 Intelligent Patient Risk Monitoring System
-MLOps pipeline with RandomForest, monitored via Prometheus + Grafana, CI/CD via Jenkins.
-`scikit-learn` `FastAPI` `MongoDB` `Jenkins` `Prometheus` `Grafana`
-
 #### 🎓 College Event Management System
 Full-stack event management platform with JWT-secured REST APIs.
 `FastAPI` `React` `Vite` `TailwindCSS` `MongoDB Atlas`
@@ -80,13 +73,6 @@ Full-stack event management platform with JWT-secured REST APIs.
 ### 🌍 Open Source
 
 - ✅ **OWASP MASTG** — [PR #3725](https://github.com/OWASP/mastg/pull/3725) merged (marked Xamarin as end-of-support)
-
----
-
-### 🏅 Certifications
-
-- Oracle OCI AI Foundations
-- Stanford / DeepLearning.AI — Machine Learning
 
 ---
 
