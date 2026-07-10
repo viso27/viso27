@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Viso V 👋</h1>
-<h3 align="center">AI/ML & Full-Stack Developer | B.Tech AI & DS @ PSG iTech</h3>
+<h3 align="center">Passionate AI/ML & Full-Stack Developer | B.Tech AI & DS @ PSG iTech</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="linkedin.com/in/viso-v-03a4a224b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
