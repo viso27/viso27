@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Viso V 👋</h1>
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full-Stack+Developer;Building+Sentinel+%26+Arbor;Open+to+SDE+Internships" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full-Stack+Developer;" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
