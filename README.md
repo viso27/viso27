@@ -74,6 +74,4 @@ Full-stack event management platform with JWT-secured REST APIs.
 
 - ✅ **OWASP MASTG** — [PR #3725](https://github.com/OWASP/mastg/pull/3725) merged (marked Xamarin as end-of-support)
 
----
 
-<p align="center"><i>⚡ Currently prepping for placements — always open to interesting collabs!</i></p>
