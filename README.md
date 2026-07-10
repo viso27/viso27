@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Viso V 👋</h1>
-<h3 align="center">Passionate AI/ML & Full-Stack Developer | B.Tech AI & DS @ PSG iTech</h3>
-
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full-Stack+Developer;Building+Sentinel+%26+Arbor;Open+to+SDE+Internships" alt="Typing SVG" />
+  </a>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/" target="linkedin.com/in/viso-v-03a4a224b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:viso2711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
