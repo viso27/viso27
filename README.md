@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Viso V 👋</h1>
+<h1 align="center">Hi,Viso here 👋</h1>
 <p align="center">
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full-Stack+Developer;" alt="Typing SVG" />
@@ -16,7 +16,9 @@
 - 🎓 B.Tech AI & Data Science, PSG Institute of Technology and Applied Research
 - 🏆 Secretary, Quiz Club @ PSG iTech
 - 🌱 Currently sharpening CS fundamentals and DSA for placements
-- 🔓 Open source contributor 
+- 🔓 Open source contributor
+I like technology. It makes a dent in the universe.
+Right now I just build stuff!
 
 
 ---
