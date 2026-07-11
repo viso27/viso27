@@ -17,8 +17,8 @@
 - 🏆 Secretary, Quiz Club @ PSG iTech
 - 🌱 Currently sharpening CS fundamentals and DSA for placements
 - 🔓 Open source contributor
-I like technology. It makes a dent in the universe.
-Right now I just build stuff!
+- I like technology. It makes a dent in the universe.
+- Right now I just build stuff!
 
 
 ---
