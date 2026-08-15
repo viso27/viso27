@@ -55,10 +55,6 @@
 
 ### 🔥 Featured Projects
 
-#### 🩺 Sentinel
-Real-time error monitoring platform with AI-powered fix suggestions.
-`Python` `React` `FastAPI` `MongoDB` `LLM Integration`
-
 #### 🧠 Arbor
 AI Knowledge Graph note-taking app using Qwen3 80B + vector search (1536-dim embeddings, cosine similarity).
 `OpenRouter` `MongoDB Atlas Vector Search` `React`
