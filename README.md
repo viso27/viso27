@@ -51,23 +51,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=flat-square)
 
----
 
-### 🔥 Featured Projects
-
-#### 🧠 Arbor
-AI Knowledge Graph note-taking app using Qwen3 80B + vector search (1536-dim embeddings, cosine similarity).
-`OpenRouter` `MongoDB Atlas Vector Search` `React`
-
-#### 🔬 WaferSight
-AI-powered wafer defect detection using MobileNetV3-Small on WM-811K dataset, with GradCAM visualization. Built at PSG iTech × SanDisk Hackathon 2026.
-`FastAPI` `MongoDB Atlas` `React` `Computer Vision`
-
-#### 🎓 College Event Management System
-Full-stack event management platform with JWT-secured REST APIs.
-`FastAPI` `React` `Vite` `TailwindCSS` `MongoDB Atlas`
-
----
 
 ### 🌍 Open Source
 
