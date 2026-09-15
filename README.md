@@ -52,9 +52,3 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=flat-square)
 
 
-
-### 🌍 Open Source
-
-- ✅ **OWASP MASTG** — [PR #3725](https://github.com/OWASP/mastg/pull/3725) merged (marked Xamarin as end-of-support)
-
-
