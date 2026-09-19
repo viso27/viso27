@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 About Me 😎
+### 🚀 About Me 
 
 - 🎓 B.Tech AI & Data Science, PSG Institute of Technology and Applied Research
 - I like technology. It makes a dent in the universe.
