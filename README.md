@@ -15,7 +15,7 @@
 
 - 🎓 B.Tech AI & Data Science, PSG Institute of Technology and Applied Research
 - I like technology. It makes a dent in the universe.
-- Right now I just build stuff!
+- Right now I just build stuff and whatever it takes to ship!
 
 
 ---
