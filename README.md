@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ Tech Arsenal 🔫
+### 🛠️ Tech Arsenal 💥
 
 **Languages & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
